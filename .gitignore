@@ -1,0 +1,11 @@
+.env
+
+results/*
+!results/.gitkeep
+
+.DS_Store
+
+*.log
+
+__pycache__/
+
