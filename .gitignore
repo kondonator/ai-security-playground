@@ -1,5 +1,7 @@
 .env
 
+open-webui-data/*
+
 results/*
 !results/.gitkeep
 
