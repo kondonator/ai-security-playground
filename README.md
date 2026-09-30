@@ -173,6 +173,10 @@ The grouping below is independent of the four conceptual Themes above.
 
 Experiments:
 
+* `PI-001`
+* `PI-002`
+* `PI-003`
+* `PI-004`
 * `PI-005`
 * `PI-006`
 * `PI-007`
